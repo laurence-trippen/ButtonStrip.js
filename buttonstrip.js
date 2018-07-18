@@ -45,14 +45,6 @@ ButtonStrip.prototype.append = function(element) {
 
         rootDiv.appendChild(buttonDiv);
     }
-
-    this.root = rootDiv;
-
-    if (element.startsWith('#')) {
-        document.getElementById(element.substring(1, element.length)).appendChild(this.root);
-    } else if (element.startsWith('.')) {
-        document.getElementsByClassName(element.substring(1, element.length)).appendChild(this.root);
-    } else {
-        document.getElementsByTagName(element).appendChild(this.root);
-    }
+    
+    document.querySelector(element).appendChild(rootDiv);
 }
