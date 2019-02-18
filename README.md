@@ -1,6 +1,9 @@
 # ButtonStrip.js
 A JavaScript library to create easily a strip of buttons.
 
+
+![Alt Text](https://github.com/laurence-trippen/ButtonStrip.js/blob/master/Preview/preview60fps.gif)
+
 ```html
 <!DOCTYPE html>
 <html>
