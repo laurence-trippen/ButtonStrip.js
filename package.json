@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A JavaScript library to create easily a strip of buttons.",
   "main": "dist/buttonstrip.js",
-  "module": "dist/buttonstrip.js",
   "scripts": {
     "dev": "webpack --watch",
     "build": "webpack --mode=production",
@@ -17,6 +16,7 @@
   "author": "Laurence Trippen",
   "license": "ISC",
   "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
     "onchange": "^7.1.0",
     "prettier": "3.0.3",
     "webpack": "^5.89.0",

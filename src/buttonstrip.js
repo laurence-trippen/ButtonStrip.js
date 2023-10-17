@@ -52,3 +52,5 @@ ButtonStrip.prototype.append = function (element) {
 
   document.querySelector(element).appendChild(rootDiv);
 };
+
+export default ButtonStrip;
