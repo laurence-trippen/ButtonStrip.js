@@ -2,6 +2,20 @@
 
 A JavaScript library to create easily a strip of buttons.
 
+### Applied Skills
+
+- [x] Webpack 5 (Library Mode)
+- [x] Prettier Config
+- [ ] Husky Git Hooks
+- [ ] ESLint Integration
+- [ ] Babel Integration
+- [ ] TypeScript Declarations
+- [ ] Unit-Testing with Jest
+- [ ] Cypress E2E-Testing
+- [ ] Storybook
+- [ ] NPM Upload
+- [ ] GitHub Workflow / NPM CI/CD
+
 ![Alt Text](https://github.com/laurence-trippen/ButtonStrip.js/blob/master/docs/preview60fps.gif)
 
 ```html
