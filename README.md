@@ -1,4 +1,4 @@
-# ButtonStrip.js
+# ButtonStrip.js <img src="https://cloud-space.smartelephantapps.com/buttonstripjs/logo.jpg" align="right" width="128">
 
 A JavaScript library to create easily a strip of buttons.
 
@@ -15,8 +15,9 @@ A JavaScript library to create easily a strip of buttons.
 - [ ] Storybook
 - [ ] NPM Upload
 - [ ] GitHub Workflow / NPM CI/CD
+- [x] Create Awesome Logo
 
-![Alt Text](https://github.com/laurence-trippen/ButtonStrip.js/blob/master/docs/preview60fps.gif)
+![Alt Text](https://cloud-space.smartelephantapps.com/buttonstripjs/preview60fps.gif)
 
 ```html
 <!doctype html>
