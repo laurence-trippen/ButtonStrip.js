@@ -1,4 +1,4 @@
-# ButtonStrip.js <img src="https://cloud-space.smartelephantapps.com/buttonstripjs/logo.jpg" align="right" width="128">
+# ButtonStrip.js <img src="https://cloud-space.smartelephantapps.com/buttonstripjs/logo.jpg" align="right" width="200">
 
 A JavaScript library to create easily a strip of buttons.
 
